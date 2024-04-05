@@ -3,7 +3,7 @@ let yes = document.getElementById("yes");
 
 
 yes.addEventListener('click',() => {
-    alert("I Love you too meri jaan 🥰🥰🥰 ");
+    alert("Tell us your story...⚠️☠️🚨 ");
 })
 
 function moveTarget() {
